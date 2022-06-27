@@ -69,6 +69,9 @@ public class Menue {
                                 case 345:
                                         System.out.println("Dennis Holzer");
                                         break;
+                                case 400:
+                                        System.out.println("Lara Ranta");
+                                        break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
                         }
