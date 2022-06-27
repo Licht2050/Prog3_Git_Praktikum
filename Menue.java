@@ -61,7 +61,10 @@ public class Menue{
                                 case 35:
                                         System.out.println("Kevin Baumgart");
                                 break;
-                                default:
+                                case 21:
+                                        System.out.println("Nils Schuh");
+                                        break;
+                                        default:
                                         System.out.println("Fehler: Kenne ich nicht!");
                         }     
                 }
