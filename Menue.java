@@ -24,17 +24,17 @@ public class Menue {
 
                                 case 2:
                                         System.out.println("Florian Staudt");
-<<<<<<< HEAD
+
 				break;
 
 				case 5:
 					System.out.println("Tamara Braun");
                                 break;
                                 case 9: 
-=======
+
                                         break;
                                 case 9:
->>>>>>> eed55016a560bcddf7cef7e213e2eed219c47a23
+
                                         System.out.println("Joscha Kirchen");
                                 case 93:
                                         System.out.println("Lennart Großart");
@@ -71,7 +71,7 @@ public class Menue {
                                         System.out.println("Yannik Schneider");
                                         break;
                                 case 101:
-<<<<<<< HEAD
+
                                 System.out.println("Jonas Dietrich");
 
                                 case 4444:
@@ -79,7 +79,7 @@ public class Menue {
                                 break;
 
 
-=======
+
                                         System.out.println("Jonas Dietrich");
                                         break;
                                 case 35:
@@ -94,7 +94,7 @@ public class Menue {
                                 case 345:
                                         System.out.println("Dennis Holzer");
                                         break;
->>>>>>> refs/remotes/origin/main
+
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
                         }
