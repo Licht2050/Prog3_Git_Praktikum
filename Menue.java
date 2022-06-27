@@ -22,69 +22,123 @@ public class Menue {
                                         System.out.println("Valentin Schneider");
                                 case 2:
                                         System.out.println("Florian Staudt");
-		                        break;
-				case 25:	
-                                        System.out.println("Alexander Weißmüller");
-					break;
+
+
+
+				break;
+
 				case 5:
 					System.out.println("Tamara Braun");
-<<<<<<< HEAD
                                 break;
                                 case 9: 
 
                                         break;
-=======
-					break;
->>>>>>> b3d194713c41fc0cf42b4774771d21862837a18c
-                                case 9:
+										break;
 
+								case 25:	
+                                        System.out.println("Alexander Weißmüller");
+										break;
+								case 5:
+										System.out.println("Tamara Braun");
+										break;
+
+                                        break;
+                                case 9:
                                         System.out.println("Joscha Kirchen");
-<<<<<<< HEAD
-=======
-					break;
->>>>>>> b3d194713c41fc0cf42b4774771d21862837a18c
                                 case 93:
                                         System.out.println("Lennart Großart");
+                                break;
+
+				case 28;
+					System.out.println("Nico Schorr");
+				break;
+
+                                    		                        break;
+				                case 25:
+                                        System.out.println("Alexander Weißmüller");
+					            break;
+				                case 5:
+					                    System.out.println("Tamara Braun");
+					break;
+				case 5:
+					System.out.println("Tamara Braun");
+
+
+
+                                break;
+
                                         break;
+					break;
+                                case 9:
+                                        System.out.println("Joscha Kirchen");
+
+
+					break;
+                                case 93:
+                                        System.out.println("Lennart Großart");
+
+				case 44: 
+					System.out.println("Michelle Hofmann");
+                                break;
+
+				case 28;
+					System.out.println("Nico Schorr");
+				break;
+
+                                    
+                                        break;
+=======
+                                break;
+					break;
+                                case 93:
+                                        System.out.println("Lennart Großart");
+                                break;
+>>>>>>> f01f0874d478537ff62f53ec82a45cadd62f14ae
                                 case 11:
-
-
                                         System.out.println("Damian Siol");
-
-
-                                        break;
+                                break;
                                 case 14:
                                         System.out.println("Marcel Splettstößer");
-                                        break;
+                                break;
                                 case 12:
                                         System.out.println("Nadir Tatar");
-                                        break;
-
+                                break;
                                 case 13:
                                         System.out.println("Moritz Jost");
-                                        break;
+                                break;
                                 case 17:
+<<<<<<< HEAD
                                         System.out.println("Tim Wedekind");
+                                break;
+				
+				case 27:
+					System.out.println("Niklas Jochem");
+				break;
+				
+>>>>>>> 85153507eb4cf0386d98c71b18271a497dd93539
                                         break;
                                 case 36:
                                         System.out.println("Christoph Wörz");
-                                        break;
+                                break;
                                 case 69:
                                         System.out.println("Nick Paul");
-                                        break;
+                                break;
                                 case 8:
                                         System.out.println("Tim Nimsgern");
+                                break;
                                 case 7:
                                         System.out.println("Yannik Schneider");
-                                        break;
+                                break;
                                 case 101:
 
                                 System.out.println("Jonas Dietrich");
-
+                                break;
                                 case 4444:
                                 System.out.println("Tim Blittersdorf"); 
                                 break;
-
+                                case 5416328:
+                                System.out.println("Igor Gorban");
+                                break;
 
 
                                         System.out.println("Jonas Dietrich");
@@ -102,18 +156,23 @@ public class Menue {
                                         System.out.println("Dennis Holzer");
                                         break;
 <<<<<<< HEAD
-
-=======
                                 case 346:
                                         System.out.println("Sally Khout");
                                         break;
-<<<<<<< HEAD
->>>>>>> 90c23cb8bea389c0f9798d478f54607d716f6c6b
 =======
+
+                                case 346:
+                                        System.out.println("Sally Khout");
+                                        break;
+
 				case 24:
 					System.out.println("Festim Krasniqi");
 					break;
->>>>>>> refs/remotes/origin/main
+
+>>>>>>> f01f0874d478537ff62f53ec82a45cadd62f14ae
+				case 24:
+					System.out.println("Festim Krasniqi");
+					break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
                         }
