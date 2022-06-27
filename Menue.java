@@ -20,15 +20,23 @@ public class Menue{
                                 break;
                                 case 9: 
                                         System.out.println("Joscha Kirchen");
-                                break;
                                 case 10: 
                                         System.out.println("Lennart Großart");
                                 break;
+                                case 11:
+                                        System.out.println("Damian Siol");
+				break;
+				case 14:
+					System.out.println("Marcel Splettstößer");
+                                break;
+                                case 12:
+                                        System.out.println("Nadir Tatar");
+                                        break;
                                 case 17:
                                         System.out.println("123");
                                 break;
-                                case 23: 
-                                        System.out.println("Erwin Kruschinski");
+                                case 36:
+                                    System.out.println("Christoph Wörz");
                                 break;
                                 case 69:
                                         System.out.println("Nick Paul");
@@ -37,6 +45,12 @@ public class Menue{
                                         System.out.println("Tim Nimsgern");
                                 case 7:
                                         System.out.println("Yannik Schneider");
+                                break;
+                                case 101:
+                                System.out.println("Jonas Dietrich");
+                                break;
+                                case 35:
+                                        System.out.println("Kevin Baumgart");
                                 break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
