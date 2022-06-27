@@ -26,6 +26,9 @@ public class Menue {
                                         System.out.println("Florian Staudt");
 
 				break;
+				case 25:
+                                        System.out.println("Alexander Weißmüller");
+                                break;
 
 				case 5:
 					System.out.println("Tamara Braun");
@@ -100,7 +103,13 @@ public class Menue {
                                 case 346:
                                         System.out.println("Sally Khout");
                                         break;
+<<<<<<< HEAD
 >>>>>>> 90c23cb8bea389c0f9798d478f54607d716f6c6b
+=======
+				case 24:
+					System.out.println("Festim Krasniqi");
+					break;
+>>>>>>> refs/remotes/origin/main
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
                         }
