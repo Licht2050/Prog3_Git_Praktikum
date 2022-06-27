@@ -23,6 +23,9 @@ public class Menue{
                                 case 10: 
                                         System.out.println("Lennart Großart");
                                 break;
+                                case 17:
+                                        System.out.println("123");
+                                break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
                         }     
