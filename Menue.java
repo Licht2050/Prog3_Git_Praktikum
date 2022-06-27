@@ -17,20 +17,15 @@ public class Menue {
                                 case 1:
                                         System.out.println("Michael Sauer");
                                         break;
-
                                 case 3:
                                         // wer da sonst noch so wäre ...
                                         System.out.println("Valentin Schneider");
-
                                 case 2:
                                         System.out.println("Florian Staudt");
-
 				break;
-
 				case 5:
 					System.out.println("Tamara Braun");
                                 break;
-                                 
                                 case 9:
                                         System.out.println("Joscha Kirchen");
 				break;
