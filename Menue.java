@@ -15,11 +15,11 @@ public class Menue{
                                 case 1:
                                         System.out.println("Michael Sauer");
                                 break;
-                                case 2:
+                                case 11:
                                         System.out.println("Damian Siol");
 
                                 break;
-                                case 3:
+                                case 1234:
                                         System.out.println("Auch ein cooler Name");
                                 break;
                                 default:
