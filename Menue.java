@@ -63,6 +63,9 @@ public class Menue {
                                 case 35:
                                         System.out.println("Kevin Baumgart");
                                         break;
+                                case 88:
+                                        System.out.println("Stephan Schmidt");
+                                        break;
                                 case 325:
                                         System.out.println("Philipp Gerard");
                                         break;
