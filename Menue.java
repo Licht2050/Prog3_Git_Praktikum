@@ -25,7 +25,7 @@ public class Menue{
                                 break;
                                 case 9: 
                                         System.out.println("Joscha Kirchen");
-                                case 10: 
+                                case 93: 
                                         System.out.println("Lennart Großart");
                                 break;
                                 case 11:
