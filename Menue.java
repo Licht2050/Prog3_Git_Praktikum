@@ -17,25 +17,32 @@ public class Menue {
                                 case 1:
                                         System.out.println("Michael Sauer");
                                         break;
-
                                 case 3:
                                         // wer da sonst noch so wäre ...
                                         System.out.println("Valentin Schneider");
-
                                 case 2:
                                         System.out.println("Florian Staudt");
-<<<<<<< HEAD
-				break;
-
+		                        break;
+				case 25:	
+                                        System.out.println("Alexander Weißmüller");
+					break;
 				case 5:
 					System.out.println("Tamara Braun");
+<<<<<<< HEAD
                                 break;
                                 case 9: 
-=======
+
                                         break;
+=======
+					break;
+>>>>>>> b3d194713c41fc0cf42b4774771d21862837a18c
                                 case 9:
->>>>>>> eed55016a560bcddf7cef7e213e2eed219c47a23
+
                                         System.out.println("Joscha Kirchen");
+<<<<<<< HEAD
+=======
+					break;
+>>>>>>> b3d194713c41fc0cf42b4774771d21862837a18c
                                 case 93:
                                         System.out.println("Lennart Großart");
                                         break;
@@ -71,7 +78,7 @@ public class Menue {
                                         System.out.println("Yannik Schneider");
                                         break;
                                 case 101:
-<<<<<<< HEAD
+
                                 System.out.println("Jonas Dietrich");
 
                                 case 4444:
@@ -79,7 +86,7 @@ public class Menue {
                                 break;
 
 
-=======
+
                                         System.out.println("Jonas Dietrich");
                                         break;
                                 case 35:
@@ -94,6 +101,18 @@ public class Menue {
                                 case 345:
                                         System.out.println("Dennis Holzer");
                                         break;
+<<<<<<< HEAD
+
+=======
+                                case 346:
+                                        System.out.println("Sally Khout");
+                                        break;
+<<<<<<< HEAD
+>>>>>>> 90c23cb8bea389c0f9798d478f54607d716f6c6b
+=======
+				case 24:
+					System.out.println("Festim Krasniqi");
+					break;
 >>>>>>> refs/remotes/origin/main
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
