@@ -30,9 +30,9 @@ public class Menue{
                                 break;
                                 case 11:
                                         System.out.println("Damian Siol");
-				break;
-				case 14:
-					System.out.println("Marcel Splettstößer");
+				                break;
+                                case 14:
+					                    System.out.println("Marcel Splettstößer");
                                 break;
                                 case 12:
                                         System.out.println("Nadir Tatar");
@@ -52,6 +52,8 @@ public class Menue{
                                 break;
                                 case 8:
                                         System.out.println("Tim Nimsgern");
+                                case 7:
+                                        System.out.println("Yannik Schneider");
                                 break;
                                 case 101:
                                         System.out.println("Jonas Dietrich");
