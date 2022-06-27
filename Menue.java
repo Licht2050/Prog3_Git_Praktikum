@@ -50,7 +50,7 @@ public class Menue{
                                         System.out.println("Tim Nimsgern");
                                 break;
                                 case 101:
-                                System.out.println("Jonas Dietrich");
+                                        System.out.println("Jonas Dietrich");
                                 break;
                                 case 35:
                                         System.out.println("Kevin Baumgart");
