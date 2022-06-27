@@ -21,11 +21,39 @@ public class Menue {
                                         // wer da sonst noch so wäre ...
                                         System.out.println("Valentin Schneider");
                                 case 2:
+
+                                        //wer da sonst noch so wäre ...
+                                        System.out.println("Michael Sauer");
+
                                         System.out.println("Florian Staudt");
+
+
+                                        break;
+                                case 94:
+                                        System.out.println("Joscha Kirchen");
+
+                                        break;
+                                     
+                                case 10: 
+
+                                
+                                case 936:
+
+                                        System.out.println("Lennart Großart");
+
+                                break;
+
+
+
+				
+				case 25:
+                                        System.out.println("Alexander Weißmüller");
+                                break;
 
 
 
 				break;
+
 
 				case 5:
 					System.out.println("Tamara Braun");
@@ -48,6 +76,18 @@ public class Menue {
                                 case 93:
                                         System.out.println("Lennart Großart");
                                 break;
+
+
+
+
+                               
+				case 29:
+					System.out.println("Tim Weber");
+				break;
+
+
+                                    
+
 
 				case 28;
 					System.out.println("Nico Schorr");
@@ -87,13 +127,13 @@ public class Menue {
 
                                     
                                         break;
-=======
+
                                 break;
 					break;
                                 case 93:
                                         System.out.println("Lennart Großart");
                                 break;
->>>>>>> f01f0874d478537ff62f53ec82a45cadd62f14ae
+
                                 case 11:
                                         System.out.println("Damian Siol");
                                 break;
@@ -115,6 +155,7 @@ public class Menue {
 				break;
 				
                                         break;
+
                                 case 36:
                                         System.out.println("Christoph Wörz");
                                 break;
@@ -138,7 +179,7 @@ public class Menue {
                                 System.out.println("Igor Gorban");
                                 break;
 
-
+                                case 3566:
                                         System.out.println("Jonas Dietrich");
                                         break;
                                 case 35:
@@ -149,10 +190,16 @@ public class Menue {
                                         break;
                                 case 325:
                                         System.out.println("Philipp Gerard");
-                                        break;
+
+                                break;
+                                case 3755: 
+				System.out.println("Walaa Alhalabi");
+				break;
+                                       
                                 case 345:
                                         System.out.println("Dennis Holzer");
                                         break;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -171,26 +218,32 @@ public class Menue {
 =======                                 break;
 =======
 >>>>>>> refs/remotes/origin/main
-                                case 346:
-                                        System.out.println("Sally Khout");
-                                        break;
->>>>>>> refs/remotes/origin/main
 =======
 
+                                case 400:
+                                        System.out.println("Lara Ranta");
+                                 break;
+
 >>>>>>> refs/remotes/origin/main
                                 case 346:
                                         System.out.println("Sally Khout");
->>>>>>> refs/remotes/origin/main
+                                        break;
+
+
+
+                                case 346:
+                                        System.out.println("Sally Khout");
+
                                         break;
 
 				case 24:
 					System.out.println("Festim Krasniqi");
 					break;
 
->>>>>>> f01f0874d478537ff62f53ec82a45cadd62f14ae
 				case 24:
 					System.out.println("Festim Krasniqi");
 					break;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> refs/remotes/origin/main
@@ -200,6 +253,9 @@ public class Menue {
 >>>>>>> 0fe1e5037d96e52165ca1755e5d4a76f9f982d49
 =======
 >>>>>>> f01f0874d478537ff62f53ec82a45cadd62f14ae
+=======
+
+>>>>>>> refs/remotes/origin/main
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
                         }
