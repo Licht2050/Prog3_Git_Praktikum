@@ -25,6 +25,9 @@ public class Menue{
                                 break;
                                 case 11:
                                         System.out.println("Damian Siol");
+				break;
+				case 14:
+					System.out.println("Marcel Splettstößer");
                                 break;
                                 case 12:
                                         System.out.println("Nadir Tatar");
@@ -43,6 +46,9 @@ public class Menue{
                                 break;
                                 case 101:
                                         System.out.println("Jonas Dietrich");
+                                break;
+                                case 35:
+                                        System.out.println("Kevin Baumgart");
                                 break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
