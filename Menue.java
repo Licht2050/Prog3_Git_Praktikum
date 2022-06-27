@@ -15,6 +15,11 @@ public class Menue{
                                 case 1:
                                         System.out.println("Michael Sauer");
                                 break;
+
+                                case 3:
+                                        //wer da sonst noch so wäre ...
+                                        System.out.println("Valentin Schneider");
+
                                 case 2:
                                         System.out.println("Florian Staudt");
                                 break;
@@ -47,7 +52,7 @@ public class Menue{
                                         System.out.println("Yannik Schneider");
                                 break;
                                 case 101:
-                                System.out.println("Jonas Dietrich");
+                                        System.out.println("Jonas Dietrich");
                                 break;
                                 case 35:
                                         System.out.println("Kevin Baumgart");
