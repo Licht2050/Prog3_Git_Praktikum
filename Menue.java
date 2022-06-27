@@ -18,18 +18,23 @@ public class Menue{
                                 case 2:
                                         System.out.println("Florian Staudt");
                                 break;
-                                case 100:
+                                case 9: 
                                         System.out.println("Joscha Kirchen");
-                                case 10:
+                                break;
+                                case 10: 
                                         System.out.println("Lennart Großart");
                                 break;
                                 case 17:
                                         System.out.println("123");
                                 break;
+                                case 23: 
+                                        System.out.println("Erwin Kruschinski");
+                                break;
                                 case 69:
                                         System.out.println("Nick Paul");
-                                case 9:
-                                    System.out.println("Jonas Dietrich");
+                                break;
+                                case 8:
+                                        System.out.println("Tim Nimsgern");
                                 break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
