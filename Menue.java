@@ -29,18 +29,26 @@ public class Menue{
                                 break;
                                 case 9: 
                                         System.out.println("Joscha Kirchen");
-                                     System.out.println("Walaa Alhalabi");
+<<<<<<< HEAD
+                                     
                                 case 10: 
+=======
+                                case 93: 
+>>>>>>> f87f7477c3e48ce69403cb0611cea574eb526616
                                         System.out.println("Lennart Großart");
                                 break;
                                 case 11:
                                         System.out.println("Damian Siol");
-				break;
-				case 14:
-					System.out.println("Marcel Splettstößer");
+				                break;
+                                case 14:
+					                    System.out.println("Marcel Splettstößer");
                                 break;
                                 case 12:
                                         System.out.println("Nadir Tatar");
+                                        break;
+
+                                case 13:
+                                        System.out.println("Moritz Jost");
                                         break;
                                 case 17:
                                         System.out.println("123");
@@ -54,6 +62,8 @@ public class Menue{
                                 break;
                                 case 8:
                                         System.out.println("Tim Nimsgern");
+                                case 7:
+                                        System.out.println("Yannik Schneider");
                                 break;
                                 case 101:
                                         System.out.println("Jonas Dietrich");
@@ -61,6 +71,12 @@ public class Menue{
                                 case 35:
                                         System.out.println("Kevin Baumgart");
                                 break;
+                                                                case 325:
+                                        System.out.println("Philipp Gerard");
+                                break;
+                                case 37: 
+				System.out.println("Walaa Alhalabi");
+				break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
                         }     
