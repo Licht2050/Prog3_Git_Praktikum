@@ -94,7 +94,13 @@ public class Menue {
                                 case 345:
                                         System.out.println("Dennis Holzer");
                                         break;
+<<<<<<< HEAD
 
+=======
+                                case 346:
+                                        System.out.println("Sally Khout");
+                                        break;
+>>>>>>> 90c23cb8bea389c0f9798d478f54607d716f6c6b
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
                         }
