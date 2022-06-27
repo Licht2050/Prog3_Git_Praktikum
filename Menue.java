@@ -55,9 +55,6 @@ public class Menue{
                                 case 7:
                                         System.out.println("Yannik Schneider");
                                 break;
-                                case 88:
-                                        System.out.println("Stephan Schmidt");
-                                break;
                                 case 101:
                                         System.out.println("Jonas Dietrich");
                                 break;
