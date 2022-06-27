@@ -16,7 +16,10 @@ public class Menue{
                                         System.out.println("Michael Sauer");
                                 break;
                                 case 2:
-                                        System.out.println("Jonas Dietrich");
+                                        //wer da sonst noch so wäre ...
+                                break;
+                                case 9:
+                                    System.out.println("Jonas Dietrich");
                                 break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
