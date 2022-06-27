@@ -20,11 +20,14 @@ public class Menue{
                                 break;
                                 case 9: 
                                         System.out.println("Joscha Kirchen");
-                                case 10: 
-                                        System.out.println("Lennart Großart");
+                                        break;
+                                case 3:
+                                        System.out.println("Cedric Oliver Groß");
                                 break;
-                                case 17:
-                                        System.out.println("123");
+                                case 69:
+                                        System.out.println("Nick Paul");
+                                case 88:
+                                        System.out.println("StephStephan Schmidt");
                                 break;
                                 case 35:
                                         System.out.println("Kevin");
