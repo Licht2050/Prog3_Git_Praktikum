@@ -21,8 +21,7 @@ public class Menue{
                                 case 9: 
                                         System.out.println("Joscha Kirchen");
                                 case 10: 
-                                        System.out.println("Lennart Großart ZIIIISCH");
-
+                                        System.out.println("Lennart Großart");
                                 break;
                                 case 11:
 
@@ -34,11 +33,17 @@ public class Menue{
                                 case 17:
                                         System.out.println("123");
                                 break;
+                                case 36:
+                                    System.out.println("Christoph Wörz");
+                                break;
                                 case 69:
                                         System.out.println("Nick Paul");
                                 break;
                                 case 8:
                                         System.out.println("Tim Nimsgern");
+                                break;
+                                case 101:
+                                System.out.println("Jonas Dietrich");
                                 break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
