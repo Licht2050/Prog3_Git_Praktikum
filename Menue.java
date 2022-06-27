@@ -24,8 +24,17 @@ public class Menue {
 
                                 case 2:
                                         System.out.println("Florian Staudt");
+<<<<<<< HEAD
+				break;
+
+				case 5:
+					System.out.println("Tamara Braun");
+                                break;
+                                case 9: 
+=======
                                         break;
                                 case 9:
+>>>>>>> eed55016a560bcddf7cef7e213e2eed219c47a23
                                         System.out.println("Joscha Kirchen");
                                 case 93:
                                         System.out.println("Lennart Großart");
