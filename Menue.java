@@ -29,16 +29,13 @@ public class Menue {
                                         System.out.println("Joscha Kirchen");
                                 case 93:
                                         System.out.println("Lennart Großart");
-<<<<<<< HEAD
                                 break;
 
 				case 28;
 					System.out.println("Nico Schorr");
 				break;
 
-=======
                                     
->>>>>>> refs/remotes/origin/main
                                 case 11:
                                         System.out.println("Damian Siol");
                                         break;
