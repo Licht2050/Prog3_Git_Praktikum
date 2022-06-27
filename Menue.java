@@ -104,6 +104,9 @@ public class Menue {
                                 case 345:
                                         System.out.println("Dennis Holzer");
                                         break;
+                            case 555555:
+                                System.out.println("Nils Schuh");
+                                break;
 <<<<<<< HEAD
 
 =======
