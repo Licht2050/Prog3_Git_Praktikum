@@ -17,6 +17,10 @@ public class Menue{
                                 break;
                                 case 2:
                                         System.out.println("Florian Staudt");
+				break;
+
+				case 5:
+					System.out.println("Tamara Braun");
                                 break;
                                 case 9: 
                                         System.out.println("Joscha Kirchen");
