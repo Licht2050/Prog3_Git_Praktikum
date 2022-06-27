@@ -245,6 +245,10 @@ public class Menue {
 				case 24:
 					System.out.println("Festim Krasniqi");
 					break;
+                                
+                                case 22:
+					System.out.println("Simon");
+					break;
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
