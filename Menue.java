@@ -37,6 +37,10 @@ public class Menue{
                                 case 12:
                                         System.out.println("Nadir Tatar");
                                         break;
+
+                                case 13:
+                                        System.out.println("Moritz Jost");
+                                        break;
                                 case 17:
                                         System.out.println("123");
                                 break;
