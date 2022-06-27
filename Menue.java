@@ -30,7 +30,7 @@ public class Menue{
                                         System.out.println("StephStephan Schmidt");
                                 break;
                                 case 35:
-                                        System.out.println("Kevin");
+                                        System.out.println("Kevin Baumgart");
                                 break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
