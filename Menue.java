@@ -38,6 +38,9 @@ public class Menue{
                                 case 69:
                                         System.out.println("Nick Paul");
                                 break;
+                                case 8:
+                                        System.out.println("Tim Nimsgern");
+                                break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
                         }     
