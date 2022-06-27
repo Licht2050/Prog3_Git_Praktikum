@@ -15,12 +15,19 @@ public class Menue{
                                 case 1:
                                         System.out.println("Michael Sauer");
                                 break;
-                                case 11:
-                                        System.out.println("Damian Siol");
-
+                                case 2:
+                                        System.out.println("Florian Staudt");
                                 break;
-                                case 1234:
-                                        System.out.println("Auch ein cooler Name");
+                                case 9: 
+                                        System.out.println("Joscha Kirchen");
+                                case 10: 
+                                        System.out.println("Lennart Großart");
+                                break;
+                                case 17:
+                                        System.out.println("123");
+                                break;
+                                case 69:
+                                        System.out.println("Nick Paul");
                                 break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
