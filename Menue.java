@@ -26,6 +26,9 @@ public class Menue{
                                 case 17:
                                         System.out.println("123");
                                 break;
+                                case 35:
+                                        System.out.println("Kevin");
+                                break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
                         }     
