@@ -16,7 +16,22 @@ public class Menue{
                                         System.out.println("Michael Sauer");
                                 break;
                                 case 2:
-                                        //wer da sonst noch so wäre ...
+                                        System.out.println("Florian Staudt");
+                                break;
+                                case 9: 
+                                        System.out.println("Joscha Kirchen");
+                                break;
+                                case 10: 
+                                        System.out.println("Lennart Großart");
+                                break;
+                                case 17:
+                                        System.out.println("123");
+                                break;
+                                case 23: 
+                                        System.out.println("Erwin Kruschinski");
+                                break;
+                                case 69:
+                                        System.out.println("Nick Paul");
                                 break;
                                 case 8:
                                         System.out.println("Tim Nimsgern");
