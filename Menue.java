@@ -31,12 +31,11 @@ public class Menue {
                                         System.out.println("Lennart Großart");
                                         break;
                                 case 11:
-<<<<<<< HEAD
 
-                                        System.out.println("Damian Siol      ");
-=======
->>>>>>> refs/remotes/origin/main
+
                                         System.out.println("Damian Siol");
+
+
                                         break;
                                 case 14:
                                         System.out.println("Marcel Splettstößer");
