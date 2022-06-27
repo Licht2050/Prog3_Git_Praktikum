@@ -20,6 +20,8 @@ public class Menue{
                                 break;
                                 case 9: 
                                         System.out.println("Joscha Kirchen");
+                                case 10: 
+                                        System.out.println("Lennart Großart");
                                 break;
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
