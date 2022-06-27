@@ -47,6 +47,9 @@ public class Menue {
 
 
 				break;
+				case 25:
+                                        System.out.println("Alexander Weißmüller");
+                                break;
 
 				case 5:
 					System.out.println("Tamara Braun");
@@ -135,7 +138,16 @@ public class Menue {
                                 case 345:
                                         System.out.println("Dennis Holzer");
                                         break;
+<<<<<<< HEAD
 >>>>>>> eed55016a560bcddf7cef7e213e2eed219c47a23
+=======
+                                case 346:
+                                        System.out.println("Sally Khout");
+                                        break;
+				case 24:
+					System.out.println("Festim Krasniqi");
+					break;
+>>>>>>> 21444e2e854fec891e85b5509ff2dc92692af449
                                 default:
                                         System.out.println("Fehler: Kenne ich nicht!");
                         }
